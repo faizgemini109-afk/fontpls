@@ -1,6 +1,7 @@
 """
 Command-line interface for fontpls.
 """
+import utils.session
 import argparse
 import multiprocessing
 import os
